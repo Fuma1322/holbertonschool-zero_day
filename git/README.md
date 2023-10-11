@@ -1,1 +1,1 @@
-Not Empty
+My first git project
